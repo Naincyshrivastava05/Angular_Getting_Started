@@ -9,6 +9,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Angular-Getting-Started';
+  imgUrl = '../assets/BL_logo_square_jpg.jpg';
 
 ngOnInit(): void {
   this.title="Hello from BridgeLabs";
